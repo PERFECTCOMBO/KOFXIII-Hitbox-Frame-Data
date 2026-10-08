@@ -1,0 +1,1 @@
+PASS: real system DirectInput forwarding and keyboard device creation; all six named/ordinal exports; single automatic launch with validated PID/start timestamp across ten calls; disabled marker; non-game host; missing viewer preserves input. No game input sent.

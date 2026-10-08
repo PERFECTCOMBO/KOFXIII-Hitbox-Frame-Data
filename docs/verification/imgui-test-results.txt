@@ -1,0 +1,1 @@
+PASS: ring / meter / native timing regression tests; native Dear ImGui + DX11 rendering; GPU readback; two window resizes; actual ImGui input events for pause button, tab selection and checkbox toggle; history previous/next; clean shutdown. No live attachment attempted in self-test.

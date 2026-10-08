@@ -1,0 +1,1 @@
+PASS: arguments; PID lifetime identity; unsupported-image refusal; silent hidden startup; no hook before F8; failed attach stays off; automatic exit with target; repeated X hides without detaching or stopping timer; same HWND preserved; overlay toggles after X; panel reopens; explicit tray exit detaches and closes. Test-only fake sessions; no game writes.
